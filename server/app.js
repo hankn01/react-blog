@@ -9,7 +9,7 @@ import morgan from 'morgan'
 
 // Routes
 import postsRoutes from './routes/api/post'
-
+import userRoutes from './routes/api/user'
 
 
 
